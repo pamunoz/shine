@@ -24,7 +24,9 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-
+# gem for configuring the authentification
+gem 'orm_adapter', '~> 0.5.0'
+gem 'devise'
 
 gem 'foreman'
 gem 'webpacker', '~> 3.0'
