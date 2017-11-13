@@ -27,6 +27,7 @@ gem 'jbuilder', '~> 2.5'
 # gem for configuring the authentification
 gem 'orm_adapter', '~> 0.5.0'
 gem 'devise'
+gem 'faker'
 
 gem 'foreman'
 gem 'webpacker', '~> 3.0'
